@@ -1,0 +1,7 @@
+[
+    {"id" : 0, "vendor_name" : "Apple", "project_name" : "aplProject", "project_cost" : 100000},
+    {"id" : 1, "vendor_name" : "Best Buy", "project_name" : "bbProject", "project_cost" : 50000},
+    {"id" : 2, "vendor_name" : "Dell", "project_name" : "dlProject", "project_cost" : 200000},
+    {"id" : 3, "vendor_name" : "Facebook", "project_name" : "fbProject", "project_cost" : 20000},
+    {"id" : 4, "vendor_name" : "Google", "project_name" : "gglProject", "project_cost" : 80000}
+]
